@@ -1,0 +1,14 @@
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\bin\Debug\net6.0\myHw2AnotherTry.exe
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\bin\Debug\net6.0\myHw2AnotherTry.deps.json
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\bin\Debug\net6.0\myHw2AnotherTry.runtimeconfig.json
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\bin\Debug\net6.0\myHw2AnotherTry.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\bin\Debug\net6.0\myHw2AnotherTry.pdb
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.AssemblyInfoInputs.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.AssemblyInfo.cs
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.csproj.CoreCompileInputs.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\refint\myHw2AnotherTry.dll
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.pdb
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\myHw2AnotherTry.genruntimeconfig.cache
+C:\Users\Talal\Desktop\VisualStudioProjects\myHw2AnotherTry\myHw2AnotherTry\obj\Debug\net6.0\ref\myHw2AnotherTry.dll
